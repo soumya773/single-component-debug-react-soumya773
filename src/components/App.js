@@ -1,7 +1,7 @@
-// App.js
+
 import React from 'react';
 
-// Functional component
+
 function App() {
   return (
     <div id="main">
